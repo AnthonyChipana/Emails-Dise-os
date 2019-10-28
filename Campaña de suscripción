@@ -1,0 +1,4 @@
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js"
+data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire
+(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"a9bc98019820503699fef69bd"
+,"lid":"f5cc3a3d90","uniqueMethods":true}) })</script>
