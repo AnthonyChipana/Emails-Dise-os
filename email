@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body style="margin:0 auto;">
+  <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#1c3643">
+    <!--Header-->
+   <tr>
+     <td align="center" style="padding-top:20px;padding-bottom:20px;">
+       <a href="https://www.escritores.org/recursos-para-escritores/revistas-literarias" target="_blank" border="0" style="text-decoration:none;">
+       <img src="com.png" alt="Axolot-Revista online de literatura" width="200" style="width:200px;height:auto;display:block;">
+       </a>
+     </td>
+   </tr>
+   <!--fin de Header -->
+   <!--contenido-->
+   <tr>
+     <td>
+       <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+           <td height="50" bgcolor="#172c36" style="font-family:Arial,sans-serif;font-size:18px;color:#ffffff;text-align:center;">Hola, *Nombre*</td>
+         </tr>
+         <tr>
+           <td>
+             <img src="curso.png" alt="Nueva revista donde encontraras las mejores reseñas y recomendaciones" border="0" style="width:100%;height:auto;display:block;">
+           </td>
+         </tr>
+         <tr>
+           <td style="padding-top:30px;padding-bottom:20px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;font-size:20px;line-height:26px;color:#ffffff;text-align:center;">Ofrecemos los mejores cursos de escritura creativa,
+             así como también los mejores ensayos,trabajos académicos y tesis sobre obras literarias.</td>
+         </tr>
+         <tr>
+           <td align="center" style="padding-top:20px;padding-bottom:20px;">
+             <a href="https://www.escritores.org/curso" target="_blank" border="0"style="text-decoration:none;">
+             <img src="cta.png" alt="Quiero saber mas ya" width="300" style="width:300px;height:auto;display:block;">
+             </a>
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+   <!--fin de contenido -->
+   <!--footer -->
+   <tr>
+     <td>
+       <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+           <td>
+             <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+               <tr>
+                 <td align="center">
+                   <a href="https://www.facebook.com/nochedeletras/" target="_blank" border="0"style="text-decoration:none;">
+                   <img src="fb.png" alt="facebook"  width="30"  style="width:30px;height:auto;display:block;padding-top:30px;padding-bottom:20px;padding-left:70px;padding-right:30px;">
+                   </a>
+                 </td>
+                 <td align="center">
+                   <a href="https://twitter.com/latin_lit" target="_blank" border="0"style="text-decoration:none;">
+                   <img src="tw.png" alt="twitter" width="30" style="width:30px;height:auto;display:block;padding-top:30px;padding-bottom:20px;padding-left:70px;padding-right:30px;">
+                   </a>
+                 </td>
+                 <td align="center">
+                   <a href="https://www.instagram.com/explore/locations/365586495/casa-de-la-literatura-peruana/" target="_blank" border="0"style="text-decoration:none;">
+                   <img src="in.png" alt="instagram" width="30" style="width:30px;height:auto;display:block;padding-top:30px;padding-bottom:20px;padding-left:70px;padding-right:30px;">
+                   </a>
+                 </td>
+                 <td align="center">
+                   <a href="https://www.youtube.com/channel/UCqod258jC_Cn8UIW5g0LqqA" target="_blank" border="0"style="text-decoration:none;">
+                   <img src="yo.png" alt="youtube" width="30" style="width:30px;height:auto;display:block;padding-top:30px;padding-bottom:20px;padding-left:70px;padding-right:30px;">
+                   </a>
+                 </td>
+               </tr>
+             </table>
+           </td>
+         </tr>
+         <tr>
+           <td style="padding-top:30px;padding-bottom:20px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;font-size:20px;line-height:26px;color:#ffffff;text-align:center;">Te enviamos este contenido porque eres parte de nuestra comunidad literaria.</td>
+         </tr>
+         <tr>
+           <td style="padding-top:30px;padding-bottom:20px;padding-left:10px;padding-right:10px;font-family:Arial,sans-serif;font-size:20px;line-height:26px;color:#ffffff;text-align:center;">Lamentamos que te vayas,pero puedes darte de baja aquí.</td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+   <!--fin de footer -->
+  </table>
+</body>
+</html>
